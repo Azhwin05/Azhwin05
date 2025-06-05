@@ -33,7 +33,7 @@
 
 ### 📬 Contact Me
 
-- 📧 Email: [ashwinarun05@srm](mailto:ashwinarun05@srm)
+- 📧 Email: [ashwinarun05@srm](mailto:ashwinarun05@gmail.com)
 
 ---
 
