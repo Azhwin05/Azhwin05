@@ -2,9 +2,6 @@
 
 🎓 B.Tech CSE @ SRMIST | 📱 App Developer | 🤖 AI/ML Enthusiast
 
-I'm a B.Tech CSE student at SRMIST with a strong interest in app development. I'm currently exploring AI and machine learning, driven by a passion to build smart, impactful solutions.
-
----
 
 ### 🚀 About Me
 
