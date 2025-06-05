@@ -4,8 +4,6 @@
 
 I'm a B.Tech CSE student at SRMIST with a strong interest in app development. I'm currently exploring AI and machine learning, driven by a passion to build smart, impactful solutions.
 
-![Azhwin05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azhwin05&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ---
 
 ### 🚀 About Me
