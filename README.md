@@ -20,7 +20,7 @@
 **App Development:** Flutter, Kotlin, Android Studio  
 **AI/ML:** TensorFlow, Scikit-learn
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css,js,flutter,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,flutter,kotlin)](https://skillicons.dev)
 
 ---
 
