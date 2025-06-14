@@ -6,7 +6,7 @@
 ### 🚀 About Me
 
 - 🎓 I'm a B.Tech CSE student at **SRMIST**.
-- 📱 Currently working on an app project called **AUTICARE**.
+- 📱 Currently working on an app project called **AUTICARE**. 
 - 🧠 Exploring the fields of **AI and Machine Learning**.
 - 💼 Interning at **NIT Trichy**, gaining hands-on experience in research and development.
 - 🏆 Secured **4th and 5th place** at **RoboRoarz**, an international robotics competition held in **Singapore**.
