@@ -1,4 +1,4 @@
-# Hi, I'm Ashwinkumar A 👋
+# Hi, I'm Ashwinkumar A 
 
 🎓 B.Tech CSE @ SRMIST | 📱 App Developer | 🤖 AI/ML Enthusiast
 
