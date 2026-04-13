@@ -29,6 +29,8 @@ I build things at the intersection of AI and real-world utility — from accessi
 `Python` `JavaScript` `TypeScript` `Dart` `Java` `C++`  
 `Next.js` `React` `FastAPI` `Flutter`  
 `TensorFlow` `YOLOv8` `Docker` `PostgreSQL`
+![Ashwinkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azhwin05&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azhwin05&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
