@@ -33,8 +33,7 @@ I build things at the intersection of AI and real-world utility — from accessi
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azhwin05&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhwin05&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Azhwin05&theme=github-dark&hide_border=true" height="150"/>
 </p>
 
 ---
