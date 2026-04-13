@@ -17,10 +17,10 @@ I build things at the intersection of AI and real-world utility — from accessi
 
 | Project | What it does | Stack |
 |---|---|---|
-| **AUTICARE** | Flutter app supporting autism diagnosis and daily management — built with therapist workflows in mind | Flutter · Dart · TensorFlow Lite |
-| **AdRadar / ClickFieldAI** | Automated lead intelligence pipeline — Meta Ads Library → ICP filtering → Apollo enrichment → cold outreach | Python · FastAPI · Streamlit · GSheets API |
-| **CV Tool — Earth Tekniks** | Annotation platform for manufacturing QC — YOLO/COCO/Pascal VOC export, Celery async jobs, MinIO storage | Next.js · FastAPI · PostgreSQL · Docker |
-| **Connect.ai** | AI-powered video conferencing with real-time transcription, smart summaries, and action item extraction | React · WebRTC · OpenAI API |
+| AUTICARE | Flutter app supporting autism diagnosis and daily management — built with therapist workflows in mind | Flutter · Dart · TensorFlow Lite |
+| AdRadar / ClickFieldAI | Automated lead intelligence pipeline — Meta Ads Library → ICP filtering → Apollo enrichment → cold outreach | Python · FastAPI · Streamlit · GSheets API |
+| CV Tool — Earth Tekniks | Annotation platform for manufacturing QC — YOLO/COCO/Pascal VOC export, Celery async jobs, MinIO storage | Next.js · FastAPI · PostgreSQL · Docker |
+| Connect.ai | AI-powered video conferencing with real-time transcription, smart summaries, and action item extraction | React · WebRTC · OpenAI API |
 
 ---
 
@@ -29,16 +29,21 @@ I build things at the intersection of AI and real-world utility — from accessi
 `Python` `JavaScript` `TypeScript` `Dart` `Java` `C++`  
 `Next.js` `React` `FastAPI` `Flutter`  
 `TensorFlow` `YOLOv8` `Docker` `PostgreSQL`
-![Ashwinkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azhwin05&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azhwin05&layout=compact&theme=github_dark&hide_border=true)
+
+<br/>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azhwin05&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhwin05&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
 
 ---
 
 ### Highlights
 
-- 🏅 **4th place** — RoboRoarz international robotics competition, Singapore
-- 🔬 **ML research intern** — NIT Trichy
-- 🧠 **VP, ISD Labs** — Intelligent Systems Design Lab, SRMIST
+- 🏅 4th place — RoboRoarz international robotics competition, Singapore
+- 🔬 ML research intern — NIT Trichy
+- 🧠 VP, ISD Labs — Intelligent Systems Design Lab, SRMIST
 
 ---
 
