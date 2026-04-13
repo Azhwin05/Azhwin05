@@ -31,11 +31,11 @@ I build things at the intersection of AI and real-world utility — from accessi
 `TensorFlow` `YOLOv8` `Docker` `PostgreSQL`
 
 <br/>
-
+<!-- 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Azhwin05&theme=github-dark&hide_border=true" height="150"/>
 </p>
-
+-->
 ---
 
 ### Highlights
